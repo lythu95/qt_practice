@@ -9,3 +9,6 @@ DISTFILES += \
 
 RESOURCES += \
     qml.qrc
+
+FORMS += \
+    widgets/telegram.ui
